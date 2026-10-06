@@ -1,5 +1,35 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Java Full Stack projects & enhancing my skills in AI/ML and Web Development.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, full-stack web apps<br><br>🤝 I’m looking for help with<br>Exploring advanced deployment practices <br><br>🌱 I’m currently learning<br>Java FullStack, React.js<br><br>💬 Ask me about<br>Java, Web Development, OCR-based applications.<br><br>⚡ Fun fact<br>I love solving real-world problems with code and enjoy experimenting with new tech stacks.
+## 💫 About Me
+
+👋 **Hi, I'm Dinesh!**
+
+🎓 IT Graduate passionate about **Java Full Stack Development and AI Engineering**.
+
+🔭 **Currently working on**  
+Building **full-stack and AI-powered applications** using Java, React.js, REST APIs, SQL, and modern AI technologies.
+
+🌱 **Currently learning**  
+**Spring Boot, React.js, AWS, Generative AI, RAG, LangChain, and AI Agents.**
+
+💻 **Technical interests**  
+**Java • Spring Boot • React.js • SQL • REST APIs • Machine Learning • Generative AI • RAG • Vector Databases • OCR**
+
+🚀 **Projects I've worked on**  
+- 🤖 AI/ML applications and prediction systems
+- 📄 OCR-based document processing and verification
+- 🔎 Semantic document search using embeddings and vector databases
+- 🌦️ React-based web applications
+- 🌐 Full-stack web applications
+
+👯 **Open to collaborating on**  
+Java Full Stack, AI/ML, Generative AI, RAG, and open-source projects.
+
+💬 **Ask me about**  
+Java, React.js, REST APIs, SQL, RAG, OCR, Machine Learning, and AI applications.
+
+⚡ **Fun fact**  
+I enjoy learning new technologies by building projects and turning real-world problems into practical software solutions.
+
+📫 **Let's connect and build something useful!**
 
 
 ## 🌐 Socials:
