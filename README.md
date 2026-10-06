@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-👋 **Hi, I'm Dinesh!**
+👋 **Hi, I'm Dineshrachakonda!**
 
 🎓 IT Graduate passionate about **Java Full Stack Development and AI Engineering**.
 
